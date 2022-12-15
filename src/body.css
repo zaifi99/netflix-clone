@@ -1,0 +1,32 @@
+body{
+    background-color:#222222;
+    width: 100%;
+}
+.bodytext{
+    color: white;
+    font-family:'Inter', sans-serif;
+    margin-right: 35px;
+}
+.bodytext > h1{
+    font-size: .559in;
+    max-width: 6in;
+}
+.bodytext > h4{
+    margin-top: 10px;
+    font-size: .27in;
+    font-weight: 400;
+    max-width: 6in;
+}
+.bodydiv{
+    display: flex;
+    background-color: #000000;
+    color: white;
+    font-family:'Inter', sans-serif;
+    justify-content: center;
+    align-items: center;
+    margin-top: 9px;
+    height: 6in;
+}
+.bodyimg{
+        
+}
